@@ -1,0 +1,9 @@
+ffmpeg
+google.cloud.texttospeech
+gtts
+py-cord
+pynacl
+
+
+
+
